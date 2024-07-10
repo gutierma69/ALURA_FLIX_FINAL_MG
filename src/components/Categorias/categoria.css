@@ -1,0 +1,20 @@
+.categoria{
+    width: 100%;
+    padding: 3.2rem;
+    box-sizing: border-box;
+    text-align: center;
+}
+.categoria h3{
+    color: #F5F5F5;
+    font-size: 2rem;
+    display: inline-block;
+    padding: 0.8rem 10rem;
+    max-width: 50rem; 
+    border-radius: 1rem;
+    text-align: center;
+}
+.contenedor-video{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}

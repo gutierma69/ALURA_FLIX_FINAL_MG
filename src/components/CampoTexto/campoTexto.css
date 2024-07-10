@@ -1,0 +1,51 @@
+.title{
+    display: block;
+    margin-bottom: 0.5rem;
+    color: #FFFFFF;
+    font-size: 1.8rem;
+    font-family: Source Sans Pro;
+}
+@media(max-width:576px){
+    .title{
+        font-size: 1.5rem;
+    }
+}
+.input{
+    width: 100%;
+    padding: 1.5rem 0.8rem;
+    border: 1px solid #6BD1FF;
+    border-radius: 0.5rem;
+    background-color: transparent;
+    color: #A5A5A5;
+}
+.input:focus{
+    outline: none;
+    border-color: #00C86F;
+}
+.textArea{
+    width: 100%!important;
+    padding: 0.8rem;
+    margin-bottom: 1rem;
+    border: 1px solid #6BD1FF;
+    border-radius: 0.5rem;
+    background-color: transparent;
+    color: #A5A5A5;
+    resize: vertical;
+}
+.textArea:focus {
+    outline: none;
+    border-color: #00C86F;
+}
+.select{
+    width: 100%;
+    padding: 0.8rem;
+    margin-bottom: 1rem;
+    border: 1px solid #6BD1FF;
+    border-radius: 0.5rem;
+    background-color: #0F172A;
+    color: #A5A5A5
+}
+.select:focus{
+    outline: none;
+    border-color: #00C86F;
+}

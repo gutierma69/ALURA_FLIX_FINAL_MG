@@ -1,0 +1,30 @@
+.opciones{
+    display: flex;
+    justify-content: space-evenly;
+}
+.opcion{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}
+.opcion:hover{
+    background-color: #fff;
+    color: black;
+}
+.opcion:hover i{
+    color: black;
+}
+.opcion:hover p{
+    color: black;
+}
+.opcion i{
+    color: #fff;
+    margin-right: 0.5rem;
+}
+.opcion p{
+    color: #fff;
+}

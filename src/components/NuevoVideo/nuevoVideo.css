@@ -1,0 +1,57 @@
+.formulario{
+    color: white;
+    padding: 2rem;
+    max-width: 1200px;
+    margin: auto;
+}
+.titulo, .parrafo{
+    text-align: center;
+    color: #fff;
+    text-transform: uppercase;
+}
+label {
+    margin-bottom: 1rem!important;
+}
+  
+.form-actions{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+@media (max-width:576px){
+    .form-actions{
+        flex-direction: column;
+        align-items: center;
+    }
+    button{
+        margin-top: 2rem!important;
+        width: 50%;
+        box-sizing: content-box;
+    }
+}
+button {
+    background-color: transparent;
+    color: #fff;
+    border: none;
+    padding: 1rem 2rem;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1.5rem;
+    text-transform: uppercase;
+}
+.guardar{
+    border: 2px solid #2271D1;
+    transition: background-color 0.3s ease-in-out;
+}
+.limpiar{
+    border: 2px solid #fff;
+    transition: background-color 0.3s ease-in-out;
+}
+.guardar:hover{
+    background-color: #fff;
+    color: #2271D1;
+}
+.limpiar:hover{
+    background-color: #2271D1;
+    color: #fff;
+}

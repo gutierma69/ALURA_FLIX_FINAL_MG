@@ -1,0 +1,76 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "título": "Desafíos y soluciones del trabajo remoto",
+      "categoría": "INNOVACIÓN Y GESTIÓN",
+      "imagen": "https://i.ytimg.com/an_webp/kIvnVfnmDyE/mqdefault_6s.webp?du=3000&sqp=CJj657MG&rs=AOn4CLAVXKpUZNmrElisyF0EC9Q0s2m-jQ",
+      "enlace": "https://www.youtube.com/embed/kIvnVfnmDyE?si=9jwTKNczUUmUUeXX",
+      "descripción": "En el video de hoy vamos a ver cuáles son los desafíos y las soluciones que las empresas y los colaboradores enfrentan con el trabajo remoto"
+    },
+    {
+      "id": "2",
+      "título": "Aprendiendo a utilizar Figma",
+      "categoría": "FRONT END",
+      "imagen": "https://i.ytimg.com/an_webp/Y_6R3XTA2go/mqdefault_6s.webp?du=3000&sqp=CMSG6LMG&rs=AOn4CLA1H7M8IQubVIgVezt9nHlrcZwplg",
+      "enlace": "https://www.youtube.com/embed/Y_6R3XTA2go?si=QJ1e006-pe3Bf-u4",
+      "descripción": "¿Aún no sabes como utilizar Figma y quieres aprender desde cero? En este video, nuestra instructora Barbara Santos nos guiará por un paso a paso a través de todo lo que necesitas saber para comenzar a diseñar con Figma"
+    },
+    {
+      "id": "3",
+      "título": "7 Soft Skills más demandadas de 2024",
+      "categoría": "INNOVACIÓN Y GESTIÓN",
+      "imagen": "https://i.ytimg.com/an_webp/_-9grhDhxiU/mqdefault_6s.webp?du=3000&sqp=CJLr57MG&rs=AOn4CLDIRaAhhnVQif0NE0sdO8MBkL33Nw",
+      "enlace": "https://www.youtube.com/embed/_-9grhDhxiU?si=CcZk5qH5s9qpFPQk",
+      "descripción": "Siempre estamos hablando aquí en el canal de Alura Latam sobre la importancia de las Soft Skills, y en este video vamos a listar las 7 habilidades blandas más demandadas por las empresas en este 2024"
+    },
+    {
+      "id": "4",
+      "título": "Simplificando el Back End",
+      "categoría": "BACK END",
+      "imagen": "https://i.ytimg.com/an_webp/XuSXJ9DUcvY/mqdefault_6s.webp?du=3000&sqp=CNT_57MG&rs=AOn4CLA6vk0PkDz-hh7Fm-YOq9gGDsy4xg",
+      "enlace": "https://www.youtube.com/embed/XuSXJ9DUcvY?si=t5YOcbcS8jIED9Ia",
+      "descripción": "¿Quieres conocer y entender mejor qué es el Back End? En este video Bismarck Berrios nos explica qué es el back end de una manera sencilla"
+    },
+    {
+      "id": "5",
+      "título": "¿Sabes qué es NodeJS?",
+      "categoría": "BACK END",
+      "imagen": "https://i.ytimg.com/an_webp/o8x_n4Px1N0/mqdefault_6s.webp?du=3000&sqp=CMOh6LMG&rs=AOn4CLAwRTywWb6dCQcwa_wdQjfq7jU-Zw",
+      "enlace": "https://www.youtube.com/embed/o8x_n4Px1N0?si=vSQlFUinqa8Mwxqw",
+      "descripción": "¿Es un lenguaje de programación? ¿Es un ambiente de desarrollo? ¿Una herramienta? En este video nuestro instructor, Leonardo Castillo, nos explica qué es NodeJS y para qué sirve"
+    },
+    {
+      "id": "6",
+      "título": "React Hooks: ¿qué son y cómo funcionan?",
+      "categoría": "FRONT END",
+      "imagen": "https://i.ytimg.com/an_webp/9xlea2yDFaY/mqdefault_6s.webp?du=3000&sqp=CI7y57MG&rs=AOn4CLBIQKg-k_bZCv1WjFWavFiu6w-eJA",
+      "enlace": "https://www.youtube.com/embed/9xlea2yDFaY?si=tapf9PB7iAEmtL8N",
+      "descripción": "En este Alura+ el instructor Daniel Riverol nos enseña los diferentes usos de uno de los hooks más utilizados en React"
+    },
+    {
+      "id": "7",
+      "título": "¡Domina CSS Flexbox con FlexboxFroggy! Aprende jugando en este desafío divertido",
+      "categoría": "FRONT END",
+      "imagen": "https://i.ytimg.com/an_webp/MXPhyN5t0uQ/mqdefault_6s.webp?du=3000&sqp=CNCE6LMG&rs=AOn4CLA7b1laVQB0CJShDEHIn-OjTh9inw",
+      "enlace": "https://www.youtube.com/embed/MXPhyN5t0uQ?si=ix3EaI8o-6FTstt-",
+      "descripción": "¿Conoces el término CSS? ¿Sabes que és? En este alura.tips Gabi A entrevista la instructora front end Barbara y aprende sobre el mundo del CSS de una forma muy divertida"
+    },
+    {
+      "id": "8",
+      "título": "Spring Framework. ¿Qué es ?",
+      "categoría": "BACK END",
+      "imagen": "https://i.ytimg.com/an_webp/t-iqt1b2qqk/mqdefault_6s.webp?du=3000&sqp=CIKM6LMG&rs=AOn4CLD669pFvKDmmLMkrYLwOsI55a_lIw",
+      "enlace": "https://www.youtube.com/embed/t-iqt1b2qqk?si=RN11yBoBMtONGCSA",
+      "descripción": "¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java. Nos ofrece herramientas que nos permiten crear proyectos más avanzados, con mejores prácticas y en menor tiempo. También posee una gran comunidad, lo que nos brinda muchísima documentación y ayuda"
+    },
+    {
+      "id": "9",
+      "título": "Como desarrollar tu Marca Personal",
+      "categoría": "INNOVACIÓN Y GESTIÓN",
+      "imagen": "https://i.ytimg.com/an_webp/LAK-RduBJUs/mqdefault_6s.webp?du=3000&sqp=CISP6LMG&rs=AOn4CLB1EOGEmRUzyaANfYuBBBndGw1twQ",
+      "enlace": "https://www.youtube.com/embed/LAK-RduBJUs?si=a3KF1fC7CwJdeYhG",
+      "descripción": "En este video vamos a ayudarte a entender qué es y cuál es la importancia de tener una Marca Personal bien desarrollada"
+    }
+  ]
+}

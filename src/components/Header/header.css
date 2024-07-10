@@ -1,0 +1,82 @@
+.navbar-link {
+    color: #fff;
+    font-size: 1.5rem;
+    text-decoration: none;
+    padding: 0.8rem 2rem;
+    border-radius: 0.5rem;
+    transition: background-color 0.5s ease-in-out;
+    font-family: Source Sans Pro;
+    font-weight: bold;
+}
+  
+.navbar-link:hover {
+    background-color: #333;
+}
+.navbar-link:nth-child(1):hover{
+    background-color: #fff;
+}
+.navbar-link:nth-child(2):hover{
+    background-color: #00f;
+}
+.navbar-link:nth-child(1) {
+    border: 2px solid #00f;
+    color: #00f;
+}
+  
+.navbar-link:nth-child(2) {
+    border: 2px solid #fff;
+    color: #fff;
+}
+
+/*Estilos barra navegacion movil*/
+.navbar-link-mobile {
+    color: #00f;
+    font-size: 18px;
+    text-decoration: none;
+    padding: 8px 15px;
+    border-radius: 2rem;
+    transition: background-color 0.3s;
+    display: flex;
+    align-items: center;
+    border: 2px solid #00f;
+}
+.navbar-link-mobile i {
+    margin-right: 8px;
+    color: #00f;
+}
+  .navbar-link-mobile:hover {
+    background-color: #333;
+}
+.menu-button {
+    background: none;
+    border: 2px solid #fff;
+    border-radius: 50%;
+    color: #fff;
+    font-size: 24px;
+    cursor: pointer;
+  }
+.menu-dropdown {
+    position: absolute;
+    top: 50px;
+    right: 20px;
+    background-color: #1a1a1a;
+    border: 1px solid #333;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.menu-item {
+    display: block;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    transition: background-color 0.3s;
+  }
+  
+  .menu-item:hover {
+    background-color: #333;
+  }
+  
+  
+  
+
+  

@@ -1,0 +1,16 @@
+.container{
+    background-image: url('../../img/banner.jfif');
+    background-size: cover;
+    background-position: center center;
+    margin: 0;
+    background-repeat: no-repeat;
+    display: flex;
+    padding: 10rem 2rem;
+    justify-content: space-between;
+    align-items: center;
+    color: #fff;
+    font-family: 'Roboto';
+}
+.contenedor-izquierdo{
+    margin-right: 1rem;
+}
